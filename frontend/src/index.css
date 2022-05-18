@@ -8,14 +8,13 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
-
+.btn-primary{
+  background-color: #A435F0;
+}
 html, body {
     background-color: #E5E5E5;
 }
 
-button {
-  background-color: #A435F0;
-}
 
 a, a:hover {
   text-decoration: none;
