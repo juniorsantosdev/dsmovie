@@ -25,4 +25,5 @@ html, body {
 a, a:hover {
   text-decoration: none;
   color: unset;
+  border-color: none;
 }
